@@ -1,0 +1,26 @@
+{
+  "fitbit": {
+    "appUUID": "b96c03bb-753a-49ba-9a51-e61596160457",
+    "appType": "clockface",
+    "appDisplayName": "Hei Hei",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Hei Hei"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.0"
+  }
+}
