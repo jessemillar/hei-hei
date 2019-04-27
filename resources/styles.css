@@ -7,9 +7,19 @@
   font-family: Seville-Book;
   text-length: 32;
   text-anchor: end;
-  x: 95%;
-  y: 35%;
+  x: 98%;
+  y: 31%;
   fill: #f47e1b;
+}
+
+#date {
+  font-size: 25;
+  font-family: Seville-Book;
+  text-length: 32;
+  text-anchor: end;
+  x: 96%;
+  y: 40%;
+  fill: #b6d53c;
 }
 
 #steps {
@@ -17,7 +27,7 @@
   font-family: Seville-Book;
   text-length: 32;
   text-anchor: end;
-  x: 93%;
-  y: 46%;
+  x: 96%;
+  y: 49%;
   fill: #f4cca1;
 }

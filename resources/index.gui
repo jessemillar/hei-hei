@@ -1,5 +1,6 @@
 <svg class="background">
   <text id="time" />
+  <text id="date" />
   <text id="steps" />
   <image id="hei-hei" x="0" y="0" width="300" height="300" href="hei-hei.png" load="sync" />
 </svg>
